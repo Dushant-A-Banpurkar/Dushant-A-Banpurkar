@@ -7,7 +7,8 @@ i am student who loves programming
 *   🌍  I'm based in Chamorshi
 *   🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/dushant-banpurkar-a2697921a/)
 *   ✉️  You can contact me at [dushantbanpurkar@gmail.com](mailto:dushantbanpurkar@gmail.com)
-*   🧠  I'm learning Python and Mobile Application Development<a href="https://www.github.com/Dushant-A-Banpurkar" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Python and Mobile Application Development
+<a href="https://www.github.com/Dushant-A-Banpurkar" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Dushant-A-Banpurkar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
