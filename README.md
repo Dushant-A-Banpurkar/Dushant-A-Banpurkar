@@ -1,32 +1,86 @@
-Hi 👋 My name is Dushant Banpurkar
-==================================
+# 👋 Hi, I'm Dushant Banpurkar  
+### Full Stack Developer | MERN | Next.js Enthusiast  
 
-i am student who loves programming
-----------------------------------
+🚀 Passionate about building real-world applications using **JavaScript, TypeScript, React, Next.js, Node.js & MongoDB**.  
+I love creating clean, scalable and meaningful digital experiences. Currently leveling up my backend development in **Java Spring Boot** and learning **Go**.
 
-*   🌍  I'm based in Chamorshi
-*   🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/dushant-banpurkar-a2697921a/)
-*   ✉️  You can contact me at [dushantbanpurkar@gmail.com](mailto:dushantbanpurkar@gmail.com)
-*   🧠  I'm learning Python and Mobile Application Development
-<a href="https://www.github.com/Dushant-A-Banpurkar" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Dushant-A-Banpurkar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
-                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-                                <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-                                <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-                                <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                                <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-                                <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
-                    </p>
-                    
-     
-                  
-              
+---
+
+## 📍 About Me  
+- 🌍 Based in Maharashtra, India  
+- 🎓 Final-year CSE student  
+- 💼 MERN & Next.js Developer  
+- 📌 Open to internships / full-time opportunities  
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, APIs & Authentication**  
+- ✉️ Contact: **dushantbanpurkar@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/dushant-banpurkar-a2697921a  
+
+---
+
+## 🛠️ Tech Stack & Skills  
+
+### **Frontend**
+- React.js | Next.js  
+- JavaScript (ES6+) | TypeScript  
+- HTML5 | CSS3 | Tailwind CSS  
+- Redux Toolkit | Zustand  
+- Framer Motion  
+- Responsive UI Design  
+
+### **Backend**
+- Node.js | Express.js  
+- RESTful APIs  
+- MongoDB | Mongoose  
+- Authentication (JWT, Bcrypt)  
+- API Integration  
+
+### **Tools & DevOps**
+- Git | GitHub  
+- Postman  
+- Vercel | Render  
+- Docker (Basics)  
+- Linux basics  
+
+### **Learning Now**
+- Java & Spring Boot  
+- Go Language  
+- System Design Basics  
+
+---
+
+## 🚀 Projects
+
+### 🔹 **AI-Based Job Tracker Dashboard (Next.js + Node.js + MongoDB)**
+AI-powered platform to track job applications with resume scoring, analytics dashboard, and automated reminders.  
+**Features:** CRUD jobs, stages workflow, AI resume score, charts, email reminders, auth, protected routes.
+
+### 🔹 **Connectify – Social Media Platform for Students**
+A full-stack social media app with authentication, posts, likes, comments and real-time updates.  
+Tech: React.js, MongoDB, Express.js, JWT, Tailwind, Cloudinary.
+
+### 🔹 **Chat App with Real-Time Messaging**
+Built using React + Node.js + Socket.io with online status, typing indicator, and message encryption.
+
+(Feel free to add more)
+
+---
+
+## 📈 GitHub Stats  
+![Dushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dushant-A-Banpurkar&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dushant-A-Banpurkar&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me  
+<a href="https://www.linkedin.com/in/dushant-banpurkar-a2697921a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+</a>
+<a href="mailto:dushantbanpurkar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-darkred?logo=gmail&style=for-the-badge" />
+</a>
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Always building, always learning.  
