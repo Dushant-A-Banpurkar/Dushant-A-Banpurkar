@@ -50,7 +50,7 @@ I love creating clean, scalable and meaningful digital experiences. Currently le
 
 ## 🚀 Projects
 
-### 🔹 **AI-Based Job Tracker Dashboard (Next.js + Node.js + MongoDB)**
+### 🔹 **AI-Based Job Tracker Dashboard (React.js + Node.js + MongoDB)**
 AI-powered platform to track job applications with resume scoring, analytics dashboard, and automated reminders.  
 **Features:** CRUD jobs, stages workflow, AI resume score, charts, email reminders, auth, protected routes.
 
