@@ -46,8 +46,8 @@ I like finding the slow, manual part of a workflow and figuring out how to get A
 - Docker (Basics) | Linux basics
 
 ### **Learning Now**
-- Java & Spring Boot
-- Go
+- Python
+- PostgreSql
 - System Design Basics
 
 ---
